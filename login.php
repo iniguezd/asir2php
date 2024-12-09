@@ -1,0 +1,1 @@
+<!-- Este código establece las bases de un formulario de login en PHP -->
